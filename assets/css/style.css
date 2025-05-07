@@ -114,8 +114,8 @@ img {
 }
 
 .site-logo h1 {
-    color: #fff;
-    background:  linear-gradient(to top, #000 0%, #fff 50%, #000 100%);
+    color: #000;
+    background:  linear-gradient(to top, #fff 0%, #000 50%, #fff 100%);
     background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 5vw;
@@ -142,8 +142,8 @@ img {
 
 .nav .nav-item p {
     position: relative;
-    color: #fff;
-    background:  linear-gradient(to top, #000 0%, #fff 50%, #000 100%);
+    color: #000;
+    background:  linear-gradient(to top, #fff 0%, #000 50%, #fff 100%);
     background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 22px;
@@ -187,7 +187,7 @@ img {
     font-size: 25px;
     font-weight: 500;
     line-height: 1.25;
-    color: #fff;
+    color: #000;
 }
 
 .site-info p {
@@ -195,7 +195,7 @@ img {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     font-weight: 500;
-    color: orangered;
+    color: rgb(129, 38, 5);
 }
 
 .site-info .row:nth-child(2) .col:nth-child(2) {
